@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @msiSibs
-- 👀 I’m interested in Games, Music, Programming and Security.
+- 👀 I’m interested in Games, Music, Programming 
+- When it comes to programming, all forms of Backend Dev is one of my main interests with Bug fixing and error resolving something i find especially entertaining as problem solving is one of of my stronger suites. Im looking to get into Security too. 
 - 🌱 I’m currently learning Software Engineering, Web Dev and various programming languages
 
 
